@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { useLocalStorage } from "../hooks/useLocalStorage"
 
 let initialState: Array<number> = [];
 
