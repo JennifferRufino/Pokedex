@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Via Cep </h1>
+<h1 align="center"> Projeto Pokedéx </h1>
 
 <h3> 🚀 Sobre o projeto </h3>
 <p>Essa é uma aplicação real desenvolvolvida em React JS, com o create vite, que consulta a API https://pokeapi.co/api/v2/pokemon/ e
