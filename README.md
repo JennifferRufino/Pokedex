@@ -2,7 +2,7 @@
 
 <h3> 🚀 Sobre o projeto </h3>
 <p>Essa é uma aplicação real desenvolvolvida em React JS, com o create vite, que consulta a API https://pokeapi.co/api/v2/pokemon/ e
-liste os resultados para o usuário. Como desejado, ela precisa ter um roteamento simples, feito com React Router, que por sua vez renderiza dois componentes: Home e List. Como efeito de dar uma incrementada na aplicação, duas outras rotas foram criadas: uma para mostrar detalhes de um pokémon específico e outra para listar os favoritos. </p>
+lista os resultados para o usuário. Como desejado, ela precisa ter um roteamento simples, feito com React Router, que por sua vez renderiza dois componentes: Home e List. Como efeito de dar uma incrementada na aplicação, duas outras rotas foram criadas: uma para mostrar detalhes de um pokémon específico e outra para listar os favoritos. </p>
 
 <p align="center">
     <img src="./public/home.jpg" />
